@@ -1,4 +1,4 @@
 # chat-app
  
-created with node.js socket.io,deployed on heroku 
-https://visaubrot-app-818c8500ffc7.herokuapp.com/
+chat application created with node.js socket.io,deployed on onrender
+link: https://chat-app-vhm7.onrender.com
